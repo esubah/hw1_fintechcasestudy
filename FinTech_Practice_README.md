@@ -7,3 +7,5 @@ FinTech Bootccamp homework one - Betterment
 * They have 20B AUM
 
 * I think they have a bright future
+
+* Betterment is a take over candidate
